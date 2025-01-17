@@ -8,7 +8,10 @@
     "watch": "node --watch index.js"
   },
   "keywords": [],
-  "author": "",
+  "author": "Me and only I",
   "license": "ISC",
-  "description": ""
+  "description": "first try",
+  "dependencies": {
+    "validator": "^13.12.0"
+  }
 }
